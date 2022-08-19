@@ -710,7 +710,7 @@ h1, h2, h3, h4, h5, h6, figure {
       color: #fff; }
 
 #colorlib-testimony {
-  background: #fff url(../images/testimonial.jpg) no-repeat ; 
+  background: #fff;
   width: 100%;}
   #colorlib-testimony .owl-theme .owl-controls .owl-nav [class*=owl-] {
     -webkit-transition: 0.3s;
